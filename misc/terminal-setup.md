@@ -40,7 +40,7 @@ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/the
 
 Finally add the line below after the last line of your `~/.zshrc` file. (Alter the ZSH_THEME variable if it is already in your `~/.zshrc` file).
 
-```
+```sh
 ZSH_THEME="spaceship"
 ```
 
@@ -52,7 +52,7 @@ Bellow you will find my preferences for the prompt, but feel free to alter it th
 
 At the end of the `~/.zshrc` file, add the following:
 
-```
+```sh
 SPACESHIP_PROMPT_ORDER=(
   user          # Username section
   dir           # Current directory section
@@ -87,7 +87,7 @@ It will ask you whether or not you want it to install three recommended plugins.
 
 After the installation is complete, open `~/.zshrc` again, and below the `## End of Zinit's installer chunk` line add:
 
-```
+```sh
 ## Zinit Plugins
 zinit light zdharma-continuum/fast-syntax-highlighting
 zinit light zsh-users/zsh-autosuggestions

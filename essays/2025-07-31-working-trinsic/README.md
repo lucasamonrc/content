@@ -3,7 +3,14 @@
  <p align="center">
   <img src="./trinsic-team.jpg" alt="Trinsic's team on March 2023" width="50%" />
  </p>
-<p align="center">Trinsic's team on March 2023. I'm at the top right, with Riley (CEO) on the left.</p>
+ 
+<small>
+  <i>
+    <p align="center">
+      Trinsic's team on March 2023. I'm at the top right, with Riley (CEO) on the left.
+    </p>
+  </i>
+</small>
 
 About a month ago I left my startup job at Trinsic to join Cloudflare. I knew moving from a startup to a large org would feel odd (that was part of the appeal), but I’m still surprised by how awkward I feel sometimes. It seems that I had more startup DNA than I expected.
 
